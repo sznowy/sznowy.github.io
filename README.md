@@ -1,6 +1,6 @@
 # Snowy's Roblox Developer Portfolio
 
-## Buildings 🔨
+## Buildings/Scripts 🔨
 
 > *Building is not my specialty but i can still come up with awesome builds! Displayed below are some of my top, most effort put into builds!*
 > *This aiport has also been slightly decorated to bring a sense of realism when entering the airport where your met with a baggage drop off and a checking in section!
@@ -17,4 +17,8 @@
 
 ![image (8)~2](https://github.com/user-attachments/assets/516cc72c-9352-4163-bb61-b00a4539ceeb)
 ![image](https://github.com/user-attachments/assets/a1eb9735-1209-46cb-b0dd-2efc4aedcf17)
+
+# Vet Clinic
+> *This Vet Clinic was made for a RP game! This project was abandoned due to many reasons but still was left with an amazing half built vet clinic!*
+> *Not only did was it half built, but it also included professionally scripted computers in which receptionists could enter the customers details to book them an appointment! (Palm trees are free models so ignore those!)*
 
