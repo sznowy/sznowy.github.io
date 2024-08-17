@@ -22,3 +22,5 @@
 > *This Vet Clinic was made for a RP game! This project was abandoned due to many reasons but still was left with an amazing half built vet clinic!*
 > *Not only did was it half built, but it also included professionally scripted computers in which receptionists could enter the customers details to book them an appointment! (Palm trees are free models so ignore those!)*
 
+![Screenshot 2024-08-17 235903](https://github.com/user-attachments/assets/4d22e0a2-d799-4551-bb34-9caf319df39b)
+![image](https://github.com/user-attachments/assets/bf8da164-69c5-4aca-bfdc-899d48d7c4c1)
