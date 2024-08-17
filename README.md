@@ -3,7 +3,7 @@
 ## Buildings/Scripts 🔨
 
 > *Building is not my specialty but i can still come up with awesome builds! Displayed below are some of my top, most effort put into builds!*
-> *This aiport has also been slightly decorated to bring a sense of realism when entering the airport where your met with a baggage drop off and a checking in section!
+> *This aiport has also been slightly decorated to bring a sense of realism when entering the airport where your met with a baggage drop off and a checking in section!*
 
 # Airport Training Center Project
 > *This airport build aims to bring realism to the aviation scene in roblox! This airport is specifically a training center for one of our RP games!*
