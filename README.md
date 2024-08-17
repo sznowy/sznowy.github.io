@@ -26,4 +26,4 @@
 ![image](https://github.com/user-attachments/assets/bf8da164-69c5-4aca-bfdc-899d48d7c4c1)
 
 # Thank You
-> *That is all i have showcased for now! This is and will be updated every so often!*
+> *That is all i have showcased for now! This will be updated every so often!*
