@@ -12,7 +12,7 @@
 
 # Castle
 > *This Castle was originally built for a RPG game but was abandoned but still a well made castle wall filled with detail! (The buildings inside are free models so ignore those)*
-> *Not only does this awesome castle include obviously the castle but it has one working UI! This UI is filled with gamepasse options in which the player may choose their donation amount!
+> *Not only does this awesome castle include obviously the castle but it has one working UI! This UI is filled with gamepasse options in which the player may choose their donation amount!*
 
 ![image (8)~2](https://github.com/user-attachments/assets/516cc72c-9352-4163-bb61-b00a4539ceeb)
 ![image](https://github.com/user-attachments/assets/a1eb9735-1209-46cb-b0dd-2efc4aedcf17)
